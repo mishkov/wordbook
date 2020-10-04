@@ -1,0 +1,44 @@
+{
+  "app_name": "Wordbook",
+
+  "word_list_page_title": "Wordbook",
+  "sort_by_original": "By original",
+  "sort_by_translation": "By translation",
+  "sort_by_learned": "By learned",
+  "floating_button_tooltip": "Add word",
+
+  "original_field_name": "Original:",
+  "translation_field_name": "Translation(s):",
+  "add_word_button": "Add",
+  "cancel_adding_word_button": "Cancel",
+  "remove_word_button": "Remove",
+  "apply_changes_button": "Ok",
+  "why_word_is_not_added_toast": "Some Field was not filled cause word is not added.",
+  "why_word_is_not_edited_toast": "Some Field was not filled cause word in not changed.",
+
+  "drawer_title": "Options",
+  "drawer_help_item": "Help",
+  "drawer_about_item": "About",
+  "drawer_settings_item": "Settings",
+
+  "help_page_title": "Help",
+  "help_page_content": "Long press you can edit the word. Swipe to the right to test your knowledge.",
+
+  "about_page_title": "About",
+  "about_page_content": "In this application you can store words and their translation, as well as check the knowledge of these words",
+
+  "test_page_ask_label": "Choose the correct translation of $askedWord",
+  "test_page_not_found_label": "Until you added a word.",
+  "test_page_back_button": "Back",
+  "test_page_check_button": "Check",
+  "test_page_again_button": "Again",
+  "test_page_result_button": "Result",
+
+  "test_result_page_label": "You know $learnedWordCount word(s)! Amazing!",
+  "test_result_page_ok_button": "Ok",
+  "test_result_page_again_button": "Again",
+
+  "settings_page_title": "Settings",
+  "theme_setting": "Theme",
+  "themes": "Auto,White,Black"
+}

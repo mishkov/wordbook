@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "447235923336",
+    "firebase_url": "https://wordbook-efbbf.firebaseio.com",
+    "project_id": "wordbook-efbbf",
+    "storage_bucket": "wordbook-efbbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447235923336:android:7685012637bf903669ae3d",
+        "android_client_info": {
+          "package_name": "com.carpet.wordbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447235923336-u9ve8u3aemcokp19e2tn9daod0j4o8lb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD19iMBZgJcU1JIqmjPGpKLZK1xapwxxZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447235923336-u9ve8u3aemcokp19e2tn9daod0j4o8lb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8743953761460890~8146958538"
+    }
+  ],
+  "configuration_version": "1"
+}

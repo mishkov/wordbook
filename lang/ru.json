@@ -1,0 +1,43 @@
+{
+  "app_name": "Словарь",
+
+  "word_list_page_title": "Словарь",
+  "sort_by_original": "По оригиналу",
+  "sort_by_translation": "По переводу",
+  "sort_by_learned": "По статусу",
+  "floating_button_tooltip": "Добавить Слово",
+  "original_field_name": "Оригинал:",
+  "translation_field_name": "Перевод(ы):",
+  "add_word_button": "Добавить",
+  "cancel_adding_word_button": "Отмена",
+  "remove_word_button": "Удалить",
+  "apply_changes_button": "Ок",
+  "why_word_is_not_added_toast": "Одно из полей не заполнено, поэтому слово не добавлено.",
+
+  "why_word_is_not_edited_toast": "Одно из полей не заполнено, поэтому слово не изменено.",
+  "drawer_title": "Опции",
+  "drawer_help_item": "Помощь",
+  "drawer_about_item": "О приложении",
+  "drawer_settings_item": "Настройки",
+
+  "help_page_title": "Помощь",
+  "help_page_content": "Долгим нажатием, ты можешь изменить слово. Свайпом вправо, ты можешь проверить свои знания.",
+
+  "about_page_title": "О приложении",
+  "about_page_content": "В этом приложении ты можешь хранить слова и их перевод, а так же проверять знание этих слов.",
+
+  "test_page_ask_label": "Выбери правильный перевод слова $askedWord",
+  "test_page_not_found_label": "Пока ты не добавил слово.",
+  "test_page_back_button": "Назад",
+  "test_page_check_button": "Проверить",
+  "test_page_again_button": "Снова",
+  "test_page_result_button": "Результат",
+
+  "test_result_page_label": "Ты знаешь $learnedWordCount слов(о)! Круто!",
+  "test_result_page_ok_button": "Ок",
+  "test_result_page_again_button": "Снова",
+
+  "settings_page_title": "Настройки",
+  "theme_setting": "Тема",
+  "themes": "Авто,Светлая,Тёмная"
+}
